@@ -83,11 +83,7 @@ Para validar a usabilidade do INOVAPED, realizamos testes com educadores e aluno
 ## 👥 Equipe
 
 - **Ágnes Letícia**
-- **Allan Falcão**
-- **Pedro Phelipe**
-- **Pedro Juan**
 - **Vanessa Matias**
-- **Victoria Zambon**
 - **Wedja Maria**
 
 ---
