@@ -1,6 +1,6 @@
 # INOVAPED - Aplicativo de Apoio Pedagógico
 
-![Logo do INOVAPED](assets/logo.png)
+![Logo do INOVAPED](https://github.com/user-attachments/assets/bc575f6d-e9f2-48de-95be-06e6df61e17f)
 
 ## 📖 Sobre o Projeto
 
