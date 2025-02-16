@@ -97,8 +97,4 @@ Para validar a usabilidade do INOVAPED, realizamos testes com educadores e aluno
 
 Se você quiser contribuir com o projeto, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. Estamos abertos a sugestões e melhorias!
 
----
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
